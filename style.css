@@ -1,0 +1,15 @@
+body {
+  display: flex;
+}
+
+#signup-form {
+  height: 100vh;
+  width: 70%;
+}
+
+#side-panel {
+  background-image: url("images/1335411.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 30%;
+}
